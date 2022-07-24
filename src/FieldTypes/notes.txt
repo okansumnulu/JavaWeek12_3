@@ -1,0 +1,3 @@
+static methods-----can be called without creating an OBJECT, belongs to the classes
+
+especially at testing we will create UTILITIY classes, in these classes our methods will be static methods
